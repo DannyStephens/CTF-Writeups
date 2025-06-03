@@ -1,4 +1,4 @@
-# Lame - HackTheBox Writeup
+# Lame - Writeup
 
 **Target:** Lame (Linux)  
 

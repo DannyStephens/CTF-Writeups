@@ -1,1 +1,12 @@
 # CTF-Writeups
+
+Welcome to my collection of Capture The Flag (CTF) and Hack The Box (HTB) writeups. This repository documents my personal approach to solving various vulnerable machines and challenges. The goal is to demonstrate methodology, technical depth, and continuous learning in offensive security.
+
+---
+
+## 🗂️ Index
+
+| Machine/Challenge | Platform | Status |
+|-------------------|----------|----------|
+| [Lame](./Lame(HackTheBox)Writeup.md) | HTB      | Completed      |
+

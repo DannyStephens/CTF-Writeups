@@ -6,7 +6,7 @@ Welcome to my collection of Capture The Flag (CTF) and Hack The Box (HTB) writeu
 
 ## 🗂️ Index
 
-| Machine/Challenge | Platform | Status |
+| Machine/Challenge | Platform | Date Completed |
 |-------------------|----------|----------|
-| [Lame](./Lame(HackTheBox)Writeup.md) | HTB      | Completed      |
+| [Lame](./Lame(HackTheBox)Writeup.md) | HTB      | 09/03/2025      |
 

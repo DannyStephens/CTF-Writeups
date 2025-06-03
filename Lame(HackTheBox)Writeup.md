@@ -1,8 +1,13 @@
 # Lame - HackTheBox Writeup
 
 **Target:** Lame (Linux)  
+
 **Assessment Type:** Authorized Penetration Test  
+
 **Machine Link:** [https://app.hackthebox.com/machines/Lame](https://app.hackthebox.com/machines/Lame)
+
+**Date Completed:** 09/03/2025 
+
 
 
 ---

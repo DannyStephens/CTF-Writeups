@@ -1,4 +1,4 @@
-# Lame - Writeup
+# Lame - CTF Writeup
 
 **Target:** Lame (Linux)  
 

@@ -8,7 +8,7 @@ Welcome to my collection of Capture The Flag (CTF) and Hack The Box (HTB) writeu
 
 | Machine/Challenge | Platform | Date Completed |
 |-------------------|----------|----------|
-| [Cap](./ClarkeConfectionaryWriteup.md) | Internal Penetration Test      | 17/06/2024      |
+| [Clarke Confectionary](./ClarkeConfectionaryWriteup.md) | Internal Penetration Test      | 17/06/2024      |
 | [Cap](./CapWriteup.md) | HTB      | 07/03/2025      |
 | [Lame](./LameWriteup.md) | HTB      | 09/03/2025      |
 | [Jerry](./JerryWriteup.md) | HTB      | 13/03/2025      |
